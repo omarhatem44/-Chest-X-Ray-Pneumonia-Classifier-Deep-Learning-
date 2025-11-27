@@ -95,7 +95,7 @@ Precision / Recall / F1-score
 Saved under results/
 
 ---
-#🚀 Future Enhancements (Important)
+# 🚀 Future Enhancements (Important)
      
 - ResNet50 Transfer Learning
     
@@ -107,7 +107,7 @@ Saved under results/
       
 ---
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Omar Hatem Ellaban | Machine Learning & Deep Learning Engineer
 Feel free to fork, improve, or contact for collaborations!
