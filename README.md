@@ -68,7 +68,7 @@ pip install -r requirements.txt
 python src/train_cnn_pneumonia.py
 ```
 
-###This script:
+### **This script:**
 
 - Loads dataset
 
