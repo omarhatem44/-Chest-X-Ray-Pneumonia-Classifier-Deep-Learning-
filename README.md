@@ -36,5 +36,29 @@ The project demonstrates strong ML engineering practices: preprocessing, augment
 ---
 
 # 📁 **Project Structure (Important)**
+pneumonia-xray-classifier/
+│
+├── src/ # All training & evaluation scripts
+│ ├── train_cnn_pneumonia.py
+│ ├── evaluate_cnn_metrics.py
+│ ├── augmentation_normal_only.py
+│ ├── eda_pneumonia.py
+│
+├── results/ # Model evaluation outputs
+│ └── confusion_matrix_cnn.png
+│
+├── models/ # (Empty – weights not uploaded)
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+# ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+
 
 
