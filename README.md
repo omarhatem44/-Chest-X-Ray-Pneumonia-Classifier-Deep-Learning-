@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ```
 ---
 
-#  Train the Model
+# 🏋️‍♂️ Train the Model
 ```bash
 python src/train_cnn_pneumonia.py
 ```
@@ -87,7 +87,7 @@ python src/train_cnn_pneumonia.py
 cnn_pneumonia_best.h5 (stored locally only)
 ---
 
-#  Evaluate the Model
+# 📈 Evaluate the Model
 ```bash
 python src/evaluate_cnn_metrics.py
 ```
@@ -100,7 +100,7 @@ python src/evaluate_cnn_metrics.py
 - Saved under results/
 
 ---
-#  Future Enhancements (Important)
+# 🚀 Future Enhancements (Important)
      
 - ResNet50 Transfer Learning
     
@@ -112,7 +112,7 @@ python src/evaluate_cnn_metrics.py
       
 ---
 
-#  Author
+#   👨‍💻 Author
 
 Omar Hatem Ellaban | Machine Learning & Deep Learning Engineer
 Feel free to fork, improve, or contact for collaborations!
