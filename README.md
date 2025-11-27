@@ -94,23 +94,27 @@ Saved under results/
 
 ---
 #🚀 Future Enhancements (Important)
- ResNet50 Transfer Learning
-
-EfficientNet / DenseNet versions
-
-Grad-CAM Explainability
-
-Deploy via Flask / FastAPI
-
-Convert to TFLite for mobile deployment
+     
+     ResNet50 Transfer Learning
+    
+    EfficientNet / DenseNet versions
+    
+    Grad-CAM Explainability
+    
+    Deploy via Flask / FastAPI
+      
 ---
+
 #👨‍💻 Author
-Mohamed Ellabban
-Machine Learning Engineer — Deep Learning & Medical AI
 
-GitHub: https://github.com/omarhatem44
+   Mohamed Ellabban
+   Machine Learning Engineer — Deep Learning & Medical AI
+   
+   GitHub: https://github.com/omarhatem44
+   
+   Email: mohamed.ellabban@outlook.com
 
-Email: mohamed.ellabban@outlook.com
+   
 ---
 
 
