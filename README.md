@@ -60,6 +60,7 @@ pneumonia-xray-classifier/
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 # 🏋️‍♂️ Train the Model
 ```bash
@@ -77,6 +78,7 @@ Trains CNN
 Saves best model as:
 
 cnn_pneumonia_best.h5 (stored locally only)
+---
 
 
 
