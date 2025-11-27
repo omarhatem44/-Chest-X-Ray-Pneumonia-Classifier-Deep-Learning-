@@ -1,4 +1,4 @@
-# 🧠 Chest X-Ray Pneumonia Classifier  
+# 🧠 Chest X-Ray Pneumonia Classifier (Deep Learning)
 ### ⚡ Deep Learning End-to-End Pipeline (Custom CNN)
 
 A complete **medical imaging deep learning project** for binary classification (**Pneumonia vs Normal**) using a custom-designed **Convolutional Neural Network (CNN)**.
@@ -117,10 +117,13 @@ python src/evaluate_cnn_metrics.py
       
 ---
 
-#   👨‍💻 Author
+## 👨‍💻 Author  
+**Omar Hatem Ellaban**  
+Machine Learning & Deep Learning Engineer  
 
-Omar Hatem Ellaban | Machine Learning & Deep Learning Engineer
-Feel free to fork, improve, or contact for collaborations!
+📧 Email: **mohamed.ellabban@outlook.com**  
+🐙 GitHub: **https://github.com/omarhatem44**  
+
 
 ---
 
