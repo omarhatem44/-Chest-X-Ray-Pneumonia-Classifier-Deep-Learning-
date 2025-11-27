@@ -62,8 +62,9 @@ pip install -r requirements.txt
 ```
 
 # 🏋️‍♂️ Train the Model
+```bash
 python src/train_cnn_pneumonia.py
-
+```
 
 This script:
 
