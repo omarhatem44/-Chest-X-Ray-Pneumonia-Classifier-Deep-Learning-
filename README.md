@@ -85,7 +85,7 @@ cnn_pneumonia_best.h5 (stored locally only)
 ```bash
 python src/evaluate_cnn_metrics.py
 ```
-###Outputs:
+### **Outputs:**
 
 - Confusion Matrix
 
