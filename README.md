@@ -36,6 +36,8 @@ The project demonstrates strong ML engineering practices: preprocessing, augment
 ---
 
 # 📁 **Project Structure (Important)**
+```bash
+
 pneumonia-xray-classifier/
 │
 ├── src/ # All training & evaluation scripts
@@ -51,7 +53,7 @@ pneumonia-xray-classifier/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
